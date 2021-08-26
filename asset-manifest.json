@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-spinner/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-spinner/static/js/main.1085e08b.chunk.js",
-    "main.js.map": "/react-spinner/static/js/main.1085e08b.chunk.js.map",
+    "main.js": "/react-spinner/static/js/main.931914dd.chunk.js",
+    "main.js.map": "/react-spinner/static/js/main.931914dd.chunk.js.map",
     "runtime-main.js": "/react-spinner/static/js/runtime-main.945a3a4a.js",
     "runtime-main.js.map": "/react-spinner/static/js/runtime-main.945a3a4a.js.map",
     "static/js/2.ee5d76c6.chunk.js": "/react-spinner/static/js/2.ee5d76c6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.945a3a4a.js",
     "static/js/2.ee5d76c6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1085e08b.chunk.js"
+    "static/js/main.931914dd.chunk.js"
   ]
 }
