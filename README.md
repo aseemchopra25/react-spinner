@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+# Tinkering with Preloaders
+> Preloader using external react-loader-spinner
+![Alt Text](https://raw.githubusercontent.com/aseemchopra25/external-files/main/react-spin.gif)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
